@@ -1,0 +1,34 @@
+SUPPORT VECTOR MACHINE (SVM)
+- Is a type of binary classification
+- Uses a "line" to separate the 2 categories (something like best fit line but to divide the 2 classes)
+- Distance between each category to the line is called the MARGIN
+- The "points" that just touch the margin are known as SUPPORTING VECTORS
+- through supervised learning, the margin is created using the training set
+- If a nice margin cannot be found, kernel can be messed around with to find a nice margin.
+
+Reference: https://www.youtube.com/watch?v=_YPScrckx28
+
+
+
+RANDOM FOREST CLASSIFICATION
+- Building off of many decision trees, 
+- Each decision tree will come up with a binary classification: yes or no
+- Random forest uses many decision trees and takes the majority as it's binary classification: yes or no
+- Concept of "Uncorrelatedness"
+- The multiple decision trees used must not carry the same error from each other
+- Can be done by using bagging (bootstrap + aggregating) or feature randomness(using different combination of predictors per decision tree)
+
+- In sklearn, RFC already has bootstrapping=TRUE by default
+
+Reference: https://www.youtube.com/watch?v=cIbj0WuK41w
+
+
+
+LOGISTIC REGRESSION
+- Also a type of binary classification
+- Similar to linear regression but for binary classification
+- When plotted, it is in an S shape
+- Uses probability, so if anything falls within range >50% it will be classified as B, <50% as A.
+- Uses concept of likelihood to establish the S curve.
+
+Reference: https://www.youtube.com/watch?v=yIYKR4sgzI8
