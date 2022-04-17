@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on health data from [CDC's Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/data_documentation/index.htm). For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on health data from [CDC's Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/annual_data/annual_2019.html). For detailed walkthrough, please view the source code in order from:
 
 1. [Data Cleaning](https://github.com/crockie/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb)
 2. [Data Visualization](https://github.com/crockie/SC1015-Mini-Project/blob/main/DATA%20visualization.ipynb)
