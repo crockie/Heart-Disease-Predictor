@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 1. [Data Cleaning](https://github.com/crockie/SC1015-Mini-Project/blob/main/Data%20Cleaning.ipynb)
 2. [Data Visualization](https://github.com/crockie/SC1015-Mini-Project/blob/main/DATA%20visualization.ipynb)
-3. [Machine Learning](https://github.com/crockie/SC1015-Mini-Project/blob/main/DSAIprojectML_V4.ipynb)
+3. [Machine Learning](https://github.com/crockie/SC1015-Mini-Project/blob/main/MachineLearning.ipynb)
   
 ## Contributors
 
