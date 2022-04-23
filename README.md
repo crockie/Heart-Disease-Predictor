@@ -38,3 +38,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 - Resampling Techniques: Random Oversampling and SMOTE
 - Collaborating using GitHub
 - Concepts about Precision, Recall, and F1 Score
+
+## References
+- https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+- https://www.kaggle.com/code/theoviel/dealing-with-class-imbalance-with-smote/notebook
+- https://www.kaggle.com/code/gaganmaahi224/eda-detailed-explanation-of-knn-algorithm
+- https://www.youtube.com/watch?v=_YPScrckx28
+- https://www.youtube.com/watch?v=cIbj0WuK41w
+- https://www.youtube.com/watch?v=yIYKR4sgzI8
